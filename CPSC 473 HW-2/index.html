@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <script src="javascripts/model/PersonModel.js"></script>
+    <script src="javascripts/view/StudentListView.js"></script>
+    <script src="javascripts/control/PersonControl.js"></script>
+    <title>Assignment 2</title>
+  </head>
+
+  <body>
+    <p id="header1">CPSC 473 Assignment 2 - Jesus M. Rodriguez</p>
+
+    Last Name: <input id="last_name_id" type="text" name="last_name">
+    <input id="search_id" type="submit" value="Search">
+
+    <p id= "studentsFoundLabel">Students Found:</p>
+    <ul id="person_list_id">
+    </ul>
+
+    <p id="studentGradeID"></p>
+
+    <style>
+    table, td {
+      border: 1px solid black;
+    }
+    table { border-collapse: collapse;}
+    td {text-align: center;}
+    </style>
+
+    <table id="myTable">
+      <tr>
+        <td><b>Course</b></td>
+        <td><b>GPA</b></td>
+      </tr>
+    </table>
+
+  </body>
+
+</html>

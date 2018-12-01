@@ -1,0 +1,3 @@
+Develop a Controller module to register the event handlers,
+the ‘click’ event occurring on the ‘Search’ button,
+and any student’s name (in the list). 
