@@ -3,7 +3,7 @@ This assignment has now been submitted.
 
 List of Students
 
-Sunderland, James
-Mason, Harry
-Queen, Oliver
-Scott, Michael
+Sunderland, James <br>
+Mason, Harry <br>
+Queen, Oliver <br>
+Scott, Michael <br>
