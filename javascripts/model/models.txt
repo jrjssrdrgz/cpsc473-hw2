@@ -1,0 +1,4 @@
+Develop a Model module to manage data regarding students’ grades.
+Each student should have attributes (at least): first name and last name.
+Since one student could have more than one grade, you need to implement this one-to-many relationship in your module.
+The module would expose a Function constructor so you can use to instantiate the model object.
