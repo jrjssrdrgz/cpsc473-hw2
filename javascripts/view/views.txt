@@ -1,2 +1,0 @@
-Develop a couple of View modules to be used to dynamically create the student list,
-and detailed grade table. 
